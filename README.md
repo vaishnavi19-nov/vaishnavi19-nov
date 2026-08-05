@@ -61,6 +61,12 @@
 - 📊 Data Engineering
 - ☁️ Cloud Fundamentals
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavi19-nov/vaishnavi19-nov/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
