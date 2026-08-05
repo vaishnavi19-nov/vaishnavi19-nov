@@ -1,43 +1,109 @@
+<h1 align="center">Hi 👋, I'm Vaishnavi Pawar</h1>
 
+<h3 align="center">
+🚀 Aspiring Java Developer | 🤖 AI Enthusiast | 📊 Future Data Engineer
+</h3>
 
- <abc>
-  <br>Hi there! <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)](https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)" width="30"><br>
-  <br> I'm Vaishnavi Pawar, An aspiring developer :computer:<br>
-  <br>
-    <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+<br>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<p align="center">
+  <img src="assets/coding.gif" width="700" alt="Coding Girl GIF">
+</p>
 
-- :computer: I'm an aspiring java Developer!
-- :hourglass_flowing_sand: Exploring Data engineering and AI 
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation<br>
+---
 
-<h2 align="left">:heart: Let's get connected:</h2>
+## 👩‍💻 About Me
 
-[![Linkedin Badge] ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Java, Data Structures & Algorithms**
+- 💻 Aspiring **Java Backend Developer**
+- 🤖 Interested in **Artificial Intelligence**
+- 📊 Exploring **Data Engineering**
+- ☁️ Learning **Git, GitHub, SQL & Cloud Basics**
+- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
+- 📚 Solving problems on **LeetCode** every day
+- ❤️ I enjoy learning new technologies and building projects
+
+---
+
+## 🚀 Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,mysql,mongodb,git,github,vscode,idea,eclipse,excel&perline=8"/>
+
+</p>
+
+---
+
+## 📖 Currently Learning
+
+- ☕ Advanced Java
+- 📚 Data Structures & Algorithms
+- 🗄 SQL
+- 🤖 Machine Learning Basics
+- 📊 Data Engineering
+- ☁️ Cloud Fundamentals
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Success doesn't come from what you do occasionally, it comes from what you do consistently."* 🚀
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat"/>
+
+</p>
