@@ -49,9 +49,6 @@
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
 </p>
 
-</p>
-
-</p>
 
 ---
 
@@ -63,31 +60,6 @@
 - 🤖 Machine Learning Basics
 - 📊 Data Engineering
 - ☁️ Cloud Fundamentals
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi19-nov&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vaishnavi19-nov&theme=tokyonight"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi19-nov&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
