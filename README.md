@@ -78,7 +78,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=vaishnavi19-nov&theme=tokyonight"/>
 
 </p>
 
@@ -88,7 +88,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi19-nov&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -98,7 +98,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaishnavi-pawar-93b88a256">
+<a href="[https://linkedin.com/in/www.linkedin.com/in/vaishnavi-pawar-93b88a256](https://www.linkedin.com/in/vaishnavi-pawar-93b88a256/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
