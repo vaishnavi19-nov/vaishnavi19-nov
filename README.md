@@ -69,20 +69,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi19-nov&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi19-nov&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=vaishnavi19-nov&theme=tokyonight"/>
-
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -98,7 +95,7 @@
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/www.linkedin.com/in/vaishnavi-pawar-93b88a256](https://www.linkedin.com/in/vaishnavi-pawar-93b88a256/)">
+<a href="https://www.linkedin.com/in/vaishnavi-pawar-93b88a256/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
