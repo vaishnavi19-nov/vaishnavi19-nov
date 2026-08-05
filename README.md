@@ -4,7 +4,7 @@
   <br>Hi there! <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)](https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)" width="30"><br>
   <br> I'm Vaishnavi Pawar, An aspiring developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+[    <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)">]
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
