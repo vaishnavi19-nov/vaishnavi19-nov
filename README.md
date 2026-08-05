@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/coding.gif" width="700" alt="Coding Girl GIF">
+  <img src="https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif" alt="Coding GIF" width="550" height= "500"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🤖 Interested in **Artificial Intelligence**
 - 📊 Exploring **Data Engineering**
 - ☁️ Learning **Git, GitHub, SQL & Cloud Basics**
-- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
+- 🎯 Goal: Become a Software Engineer at a  Product-Based Company
 - 📚 Solving problems on **LeetCode** every day
 - ❤️ I enjoy learning new technologies and building projects
 
@@ -29,7 +29,27 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,mysql,mongodb,git,github,vscode,idea,eclipse,excel&perline=8"/>
+## 💻 Tech Stack
+
+<p align="center">
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
+</p>
+
+</p>
 
 </p>
 
@@ -49,11 +69,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi19-nov&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
