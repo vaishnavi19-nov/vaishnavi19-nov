@@ -4,7 +4,7 @@
   <br>Hi there! <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)](https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)" width="30"><br>
   <br> I'm Vaishnavi Pawar, An aspiring developer :computer:<br>
   <br>
-[    <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)">]
+    <img src="(https://i.pinimg.com/originals/cc/5d/15/cc5d15e20211ccce322d71e0ed120df3.gif)">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -35,7 +35,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/) ...
+[![Linkedin Badge] ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
